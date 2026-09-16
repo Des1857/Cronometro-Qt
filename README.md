@@ -55,3 +55,6 @@ Clonar el repositorio:
 git clone https://github.com/Des1857/Cronometro-Qt.git
 cd Cronometro-Qt
 ```
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Ver [LICENSE](LICENSE) para más información.
