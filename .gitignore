@@ -1,0 +1,15 @@
+# Build de CMake
+build/
+
+# Versiones compiladas/distribuibles
+release/
+prueba_release/
+
+# Archivos de configuración de CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+.ninja_deps
+.ninja_log
+build.ninja
