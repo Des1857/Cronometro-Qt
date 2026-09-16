@@ -1,6 +1,8 @@
 # Build de CMake
 build/
 
+#zip del ejecutable
+*.zip
 # Versiones compiladas/distribuibles
 release/
 prueba_release/
